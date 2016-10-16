@@ -1,0 +1,23 @@
+{
+  "name": "odn",
+  "version": "0.0.1",
+  "description": "secret",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "gulp --silent && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejewski/odn.git"
+  },
+  "keywords": [],
+  "author": "Chris Andrejewski <christopher.andrejewski@gmail.com> (chrisandrejewski.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/andrejewski/odn/issues"
+  },
+  "homepage": "https://github.com/andrejewski/odn#readme",
+  "devDependencies": {
+    "standard": "^8.4.0"
+  }
+}
